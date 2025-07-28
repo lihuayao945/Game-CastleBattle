@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32fe965324d04994db097195f78d191a, type: 3}
+  m_Name: HealSkill
+  m_EditorClassIdentifier: 
+  behaviorType: 1
+  effectType: 1
+  effectPrefab: {fileID: 6353068584174758688, guid: 4541a23143dcd5748864e8d8a78fa816, type: 3}
+  projectileSpeed: 10
+  projectileLifetime: 2
+  rangeY: 1.5
+  areaShape: 0
+  areaSize: {x: 0.3, y: 1}
+  areaDuration: 1
+  delayTime: 0.51
+  effectOffset: {x: 0, y: 0, z: 0}
+  auraRadius: 1
+  effectInterval: 0.51
+  effectValue: 10
+  healEffectPrefab: {fileID: 7184206789618474585, guid: 511d6c771a3cc804e87a2116e7519ae8, type: 3}
+  damageEffectPrefab: {fileID: 0}
+  stunEffectPrefab: {fileID: 0}
+  stunDuration: 2
+  spawnOffsetType: 1
+  spawnDistance: 0.1
+  followOffset: {x: 0, y: 0, z: 0}
+  cooldownTime: 1
+  castingTime: 1
+  actionPrefab: {fileID: 0}
+  triggerAnimationName: 
+  actionOffset: {x: 0, y: 0, z: 0}

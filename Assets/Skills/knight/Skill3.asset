@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32fe965324d04994db097195f78d191a, type: 3}
+  m_Name: Skill3
+  m_EditorClassIdentifier: 
+  behaviorType: 1
+  effectType: 2
+  effectPrefab: {fileID: 6637954287333015557, guid: 48de832a5d9ff5346bdbecfd619d8895, type: 3}
+  projectileSpeed: 10
+  projectileLifetime: 2
+  rangeY: 1.5
+  areaShape: 1
+  areaSize: {x: 3, y: 1.5}
+  areaDuration: 0.5
+  auraRadius: 3
+  effectInterval: 1
+  effectValue: 15
+  healEffectPrefab: {fileID: 0}
+  damageEffectPrefab: {fileID: 0}
+  stunEffectPrefab: {fileID: 3651442219458384985, guid: e98acbb84ee209544af00e180cae6b96, type: 3}
+  stunDuration: 3
+  spawnOffsetType: 1
+  spawnDistance: 2
+  followOffset: {x: 0, y: 0, z: 0}
+  cooldownTime: 8
+  castingTime: 0.3

@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd469ecc1c2e56745ad095184d2a3d05, type: 3}
+  m_Name: Knight
+  m_EditorClassIdentifier: 
+  heroType: 0
+  heroName: "\u9A91\u58EB"
+  description: "\u4E00\u4F4D\u64C5\u957F\u8FD1\u6218\u4E0E\u6495\u88C2\u654C\u65B9\u9635\u5F62\u7684\u82F1\u52C7\u9A91\u58EB\uFF0C\u62E5\u6709\u652F\u63F4\u5DF1\u65B9\u90E8\u961F\u4E0E\u5927\u8303\u56F4\u653B\u51FB\u7684\u82F1\u52C7\u4E4B\u738B\uFF01\u666E\u653BJ\u4E3A\u4E09\u6BB5\u8FDE\u51FB"
+  heroSprite: {fileID: 21300000, guid: 328c25092f2123e42af4807f6a5a2ea3, type: 3}
+  maxHealth: 100
+  moveSpeed: 5
+  attackDamage: 10
+  attackSpeed: 1
+  skills:
+  - name: "\u5251\u6C14"
+    description: "\u6280\u80FDK  \u5411\u524D\u6325\u51FA\u5DE8\u5927\u5251\u6C14\uFF0C\u5BF9\u78B0\u5230\u654C\u4EBA\u9020\u6210\u5341\u70B9\u4F24\u5BB3"
+    icon: {fileID: -514963640, guid: e9fe3d4cc23919c4eaa2d4bc8bedbb21, type: 3}
+    cooldown: 5
+  - name: "\u6CBB\u6108\u5149\u73AF"
+    description: "\u6280\u80FDL  \u4EE5\u81EA\u5DF1\u4E3A\u4E2D\u5FC3\u6CBB\u6108\u5149\u73AF\uFF0C\u6BCF\u79D2\u6CBB\u6108\u8303\u56F4\u5185\u53CB\u519B10\u70B9\u751F\u547D"
+    icon: {fileID: -58396496, guid: e9fe3d4cc23919c4eaa2d4bc8bedbb21, type: 3}
+    cooldown: 20
+  - name: "\u76FE\u51FB"
+    description: "\u6280\u80FDU  \u4F7F\u7528\u76FE\u724C\u5411\u524D\u65B9\u4E00\u5C0F\u7247\u533A\u57DF\u76FE\u51FB\uFF0C\u9020\u621010\u4F24\u5BB3
+      \u5E76\u6655\u7729\u654C\u4EBA5s "
+    icon: {fileID: -655975989, guid: e9fe3d4cc23919c4eaa2d4bc8bedbb21, type: 3}
+    cooldown: 8
+  - name: "\u96F7\u9706\u4E07\u94A7"
+    description: "\u6280\u80FDI  \u4EE5\u5723\u5251\u53EC\u5524\u96F7\u9706\u8F70\u51FB\u524D\u65B9\u533A\u57DF5\u79D2\u5185\u653B\u51FB\u4E94\u6B21\uFF0C\u6BCF\u6B2120\u70B9\u4F24\u5BB3 "
+    icon: {fileID: 1709193340, guid: e9fe3d4cc23919c4eaa2d4bc8bedbb21, type: 3}
+    cooldown: 60

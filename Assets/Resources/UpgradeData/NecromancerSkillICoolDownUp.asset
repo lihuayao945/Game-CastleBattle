@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1a9f700df470404db21d58c445fa66b, type: 3}
+  m_Name: NecromancerSkillICoolDownUp
+  m_EditorClassIdentifier: 
+  upgradeName: "\u6B7B\u795E\u6069\u5178"
+  description: "\u90AA\u672F\u5E08\u7684\u6280\u80FDI\u51B7\u5374\u65F6\u95F4\u53D7\u6069\u5178\u5F71\u54CD\u964D\u4F4E25%"
+  icon: {fileID: 2133206865, guid: e9fe3d4cc23919c4eaa2d4bc8bedbb21, type: 3}
+  type: 14
+  valueType: 1
+  value: 0.25
+  booleanValue: 0
+  targetUnitType: 2
+  unitAttributeType: 0
+  requiredUpgrades: []
+  targetSkill: {fileID: 11400000, guid: e52e306fe902eb14da057d4ac0ceb40c, type: 2}
+  skillPropertyToModify: 3
+  requiredPrerequisites: []
+  minGoldAmount: 50
+  maxGoldAmount: 150

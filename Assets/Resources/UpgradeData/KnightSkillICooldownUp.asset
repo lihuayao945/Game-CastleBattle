@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1a9f700df470404db21d58c445fa66b, type: 3}
+  m_Name: KnightSkillICooldownUp
+  m_EditorClassIdentifier: 
+  upgradeName: "\u4ECA\u65E5\u591A\u4E91"
+  description: "\u9A91\u58EB\u7684\u5927\u62DBI\u51B7\u5374\u964D\u4F4E30%\uFF08\u5929\u6C14\u4E0D\u597D\u591A\u653E\u70B9\u95EA\u7535\u6CA1\u95EE\u9898\u5427\uFF09"
+  icon: {fileID: 1753866161, guid: e9fe3d4cc23919c4eaa2d4bc8bedbb21, type: 3}
+  type: 14
+  valueType: 1
+  value: 0.3
+  booleanValue: 0
+  targetUnitType: 1
+  unitAttributeType: 0
+  requiredUpgrades: []
+  targetSkill: {fileID: 11400000, guid: c02173457918daf4097cd2261be5adab, type: 2}
+  skillPropertyToModify: 3
+  requiredPrerequisites: []
+  minGoldAmount: 50
+  maxGoldAmount: 150

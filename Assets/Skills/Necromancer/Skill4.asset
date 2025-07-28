@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32fe965324d04994db097195f78d191a, type: 3}
+  m_Name: Skill4
+  m_EditorClassIdentifier: 
+  behaviorType: 3
+  effectType: 0
+  effectPrefab: {fileID: 1703470322964944612, guid: 2fd3f75e8d53d37499f72c1c0b04274b, type: 3}
+  projectileSpeed: 10
+  projectileLifetime: 2
+  rangeY: 1.5
+  areaShape: 1
+  areaSize: {x: 16, y: 8}
+  areaDuration: 2
+  delayTime: 1
+  effectOffset: {x: 0, y: 0.3, z: 0}
+  auraRadius: 3
+  effectInterval: 2
+  effectValue: 50
+  healEffectPrefab: {fileID: 0}
+  damageEffectPrefab: {fileID: 1535440480914510921, guid: 85255c7f678421849ad6dde9932299ef, type: 3}
+  stunEffectPrefab: {fileID: 0}
+  stunDuration: 2
+  spawnOffsetType: 1
+  spawnDistance: 13
+  followOffset: {x: 0, y: 0, z: 0}
+  cooldownTime: 60
+  castingTime: 3
+  actionPrefab: {fileID: 0}
+  triggerAnimationName: 
+  actionOffset: {x: 0, y: 0, z: 0}

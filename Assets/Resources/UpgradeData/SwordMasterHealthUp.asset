@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1a9f700df470404db21d58c445fa66b, type: 3}
+  m_Name: SwordMasterHealthUp
+  m_EditorClassIdentifier: 
+  upgradeName: "\u5251\u672F\u5927\u5E08\u751F\u547D\u589E\u5F3A"
+  description: "\u5251\u672F\u5927\u5E08\u7684\u751F\u547D\u503C\u548C\u4E0A\u9650\u589E\u52A030\u70B9"
+  icon: {fileID: -1887791891, guid: e9fe3d4cc23919c4eaa2d4bc8bedbb21, type: 3}
+  type: 5
+  valueType: 0
+  value: 30
+  booleanValue: 0
+  targetUnitType: 10
+  unitAttributeType: 1
+  requiredUpgrades:
+  - {fileID: 11400000, guid: 5826030d9dd446e4989c9fdb4f8ff16e, type: 2}
+  targetSkill: {fileID: 0}
+  skillPropertyToModify: 0
+  requiredPrerequisites: []
+  minGoldAmount: 50
+  maxGoldAmount: 150

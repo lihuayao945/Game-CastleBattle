@@ -1,0 +1,2336 @@
+fileFormatVersion: 2
+guid: 7e169c9e7400f7141858095cd57ba916
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_0
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 2751
+        width: 75
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e0eab6a822bc1488d394910cbef0c6
+      internalID: -155462694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_1
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 2736
+        width: 108
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cc549cccbed3f4ca93144d989f08bc
+      internalID: -1194953036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_2
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 2700
+        width: 166
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4481a2ba2c60a1c45a3cb821881a701e
+      internalID: 1066233815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_3
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 2685
+        width: 194
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b13f407579e1e4498b8cd4fe36afdba
+      internalID: -1639252422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_4
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 2670
+        width: 230
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba021cc1745ba443967faf1751255f7
+      internalID: -293996548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_5
+      rect:
+        serializedVersion: 2
+        x: 3083
+        y: 2657
+        width: 268
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3baa292b8decc4ba7f1b79bf708218
+      internalID: 1668996633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_6
+      rect:
+        serializedVersion: 2
+        x: 3496
+        y: 2638
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81f7a067e0a2854b83a2d432ed79ef7
+      internalID: 929240956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_7
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 2190
+        width: 328
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87082b11fe09dc040b8cda037b3add05
+      internalID: 1170199880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_8
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 2176
+        width: 356
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0fc52d21930e34992f1d024adaf2ba
+      internalID: -1788914859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_9
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 2165
+        width: 383
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b344b52cfee84d4cb662f154353f610
+      internalID: -1239351489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_10
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 2158
+        width: 405
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4418b2377acec142b4f6963a7ceccf6
+      internalID: -1177792546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_11
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 2154
+        width: 417
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82ec8759e20e334caaedfabbc47c495
+      internalID: -1289965838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_12
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 2156
+        width: 416
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24952c9ee04c3db45830633527172e84
+      internalID: 1099147327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_13
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 2148
+        width: 426
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132d2547ce2c07643a270fea6d2ce180
+      internalID: 1472460336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_14
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 2146
+        width: 428
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a688969053ed141bc303cd834bbb41
+      internalID: -2072545921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_15
+      rect:
+        serializedVersion: 2
+        x: 3434
+        y: 2146
+        width: 426
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a579675e2926d1a43a66ca3ec9c3fa06
+      internalID: 2090994267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1718
+        width: 424
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e4184ddf2d4a14b9f9b868159a6ee9
+      internalID: -1084717492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_17
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1722
+        width: 419
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4776d88a62e39714ca3840af039cf20a
+      internalID: -263053106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_18
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1726
+        width: 417
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f907e71671ac5784fac90a379cd86132
+      internalID: -1074831338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_19
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 1720
+        width: 423
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c596af3de6c44d42b489afa13f1617c
+      internalID: 1063811002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_20
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 1722
+        width: 419
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a359cc5de662e48839d47c6d678539
+      internalID: -1599052596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_21
+      rect:
+        serializedVersion: 2
+        x: 2158
+        y: 1728
+        width: 409
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748e874420b5f6c47963be6117cbaba2
+      internalID: -711395237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_22
+      rect:
+        serializedVersion: 2
+        x: 2595
+        y: 1733
+        width: 394
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5c0f9673b38cb4f911df813095ff01
+      internalID: -1568975599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_23
+      rect:
+        serializedVersion: 2
+        x: 3034
+        y: 1739
+        width: 374
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86d64c155646fa4fb9162adb704d664
+      internalID: -802916545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_24
+      rect:
+        serializedVersion: 2
+        x: 3470
+        y: 1748
+        width: 358
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc1d7d96bc66f8448f792e1cfe22987
+      internalID: 360634494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_25
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1330
+        width: 337
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395f6836607f6834eb6974953778b9bb
+      internalID: 413049300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_26
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1341
+        width: 315
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d805cf093ad2da44a242bb4409b5b94
+      internalID: 2048525747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_27
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1352
+        width: 294
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49bf3a4ef41d964cac1f5d7dab67959
+      internalID: 1838758620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_28
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1364
+        width: 267
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd736a6179b234544aac7e74e959f03d
+      internalID: -30256446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_29
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 1379
+        width: 239
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de20104ecf3af244843a62bfc91a291
+      internalID: 1026080139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_30
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 1394
+        width: 206
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7159075b2eefd2943bd25f8b72d3535f
+      internalID: 412018921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_31
+      rect:
+        serializedVersion: 2
+        x: 2703
+        y: 1409
+        width: 177
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f187dbba307921545b8e1fd373d2c091
+      internalID: -1275302250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_32
+      rect:
+        serializedVersion: 2
+        x: 3144
+        y: 1422
+        width: 152
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ce6ef9484ae114cb72026b125f8ed0
+      internalID: 1383704196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_33
+      rect:
+        serializedVersion: 2
+        x: 3585
+        y: 1436
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ca91ba32d8ae44ca69239c709fcb9a
+      internalID: 710058978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_34
+      rect:
+        serializedVersion: 2
+        x: 3121
+        y: 973
+        width: 203
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c235bff0a540fb49a85abe13ead98db
+      internalID: -1345907133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_35
+      rect:
+        serializedVersion: 2
+        x: 3623
+        y: 1172
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e711c703b6762a44e9fef69baa4548a7
+      internalID: -114389151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_36
+      rect:
+        serializedVersion: 2
+        x: 3632
+        y: 1177
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a289609da078243bb8ae844169f4f4
+      internalID: -226157398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_37
+      rect:
+        serializedVersion: 2
+        x: 3645
+        y: 1162
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378facf035d4784488f5faefdc37050d
+      internalID: 1695857217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_38
+      rect:
+        serializedVersion: 2
+        x: 2267
+        y: 979
+        width: 191
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12d98475052ecf4092c0f914e6fb2c1
+      internalID: 753325896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_39
+      rect:
+        serializedVersion: 2
+        x: 2689
+        y: 970
+        width: 206
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e113782b67237e147881540ac1cfa8b6
+      internalID: 1031255255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_40
+      rect:
+        serializedVersion: 2
+        x: 3700
+        y: 1160
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32abb50774876124cadc0f3a933f4fbe
+      internalID: -872894331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_41
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 994
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ddbfb33c0fbee44abf42202c2ad4e4f
+      internalID: 1749458428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_42
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 985
+        width: 174
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbf49a07624a34418b431f05d3470eb
+      internalID: -1129880854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_43
+      rect:
+        serializedVersion: 2
+        x: 3621
+        y: 1141
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b03b50373e778446906bddec21a32bc
+      internalID: 1520586528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_44
+      rect:
+        serializedVersion: 2
+        x: 3632
+        y: 1147
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a2c46b4c3dd47478bc5e117dfc1735
+      internalID: 1672294812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_45
+      rect:
+        serializedVersion: 2
+        x: 3694
+        y: 1149
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc6b0d31ef9d234392cedce2e315936
+      internalID: -1616071289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_46
+      rect:
+        serializedVersion: 2
+        x: 3711
+        y: 1147
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0251ed83d2c23ef4e8c145081d129441
+      internalID: -732620374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_47
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1017
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5a2c4c48ad0214e9e45fb39cf1bcf7
+      internalID: 1563787940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_48
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1011
+        width: 119
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4049abb08943c304b8b87e8b7eb3c8e8
+      internalID: -1751846996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_49
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1002
+        width: 137
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17bd1efc66cdc73478df6ce5a1e412a0
+      internalID: 1242047394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_50
+      rect:
+        serializedVersion: 2
+        x: 3549
+        y: 998
+        width: 168
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df4220478073a8478989ab61c7d9b88
+      internalID: 1911676961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_51
+      rect:
+        serializedVersion: 2
+        x: 3698
+        y: 1117
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101834a0a59514847aadf802d102ef75
+      internalID: -45967807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_52
+      rect:
+        serializedVersion: 2
+        x: 3540
+        y: 1098
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78f977e95b6c974e9e4235e2498fb76
+      internalID: -40797825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_53
+      rect:
+        serializedVersion: 2
+        x: 3315
+        y: 1077
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f87b4ef2e470745b3564455f4171e3
+      internalID: -296316910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_54
+      rect:
+        serializedVersion: 2
+        x: 3547
+        y: 1060
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6242f79b7c16c0640897b4b489c7e1db
+      internalID: -860126455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_55
+      rect:
+        serializedVersion: 2
+        x: 3734
+        y: 1064
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1bd3848633af54caab1f3e4c59c549
+      internalID: -302257524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_56
+      rect:
+        serializedVersion: 2
+        x: 3315
+        y: 1043
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afde88b551046f24c9acecfd0ed95787
+      internalID: -1564524965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_57
+      rect:
+        serializedVersion: 2
+        x: 3732
+        y: 1023
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f4fe6ef44d0844ca90c7e23299f0df
+      internalID: 1853383552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_58
+      rect:
+        serializedVersion: 2
+        x: 3719
+        y: 1011
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a84656d7b9c1249a0ec8a416cff1c0
+      internalID: -287029038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_59
+      rect:
+        serializedVersion: 2
+        x: 3732
+        y: 1013
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955fe6e09d00e034ebe3f6da1d7461c8
+      internalID: 1077887931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_60
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 994
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a3db23118165243a9a450336ddb0b3
+      internalID: -1466787818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_61
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 996
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8fdcbd4e347c74aab506b44f8a38f5
+      internalID: 387226641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_62
+      rect:
+        serializedVersion: 2
+        x: 3626
+        y: 981
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70e99420d378ba479404366179f85f5
+      internalID: 1622238968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_63
+      rect:
+        serializedVersion: 2
+        x: 3630
+        y: 966
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b9136f1937710449bec2455cdd137b
+      internalID: -1623486666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_64
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 734
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d6e046ee3f15a41be1f8ad28c6c8f6
+      internalID: 90959556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_65
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 580
+        width: 123
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842bc2cc908275e4481da9273a07c6fc
+      internalID: -1783027146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_66
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 700
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048fdf5fd04caef4f8f029a45e091590
+      internalID: -1476897461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_67
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 700
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec98af042f80bb43b553b614cb6b2de
+      internalID: 399880054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_68
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 698
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6fb774ca109234295360139fb36386
+      internalID: -872849136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_69
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 681
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5b35c497897c94987d3ebb3c64339b
+      internalID: 712463200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_70
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 682
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b85030cdf1f0b429c8ad81feaaf6ba
+      internalID: -1008081778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_71
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 682
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c8118ab94e1e546967c810179e6ed0
+      internalID: -673418349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_72
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 683
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de18cc5f289bce64387fa78043e8e43c
+      internalID: 432534568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_73
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 674
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d64378c55d06994792bd4d4906d8f1c
+      internalID: -2097441792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_74
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 659
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d00465be35e8394faef77795a2fbc96
+      internalID: 1587432117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_75
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 666
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85cbfd00f0b7024684757dc30f614ca
+      internalID: -346778133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_76
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 666
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24141c1827ee4e439ec4d7b90cb7936
+      internalID: 1967408376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_77
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 657
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecddadda2c3b2fc408651c04148ab1a4
+      internalID: -1429748203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_78
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 634
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29bb11af59537814e96fc85b150be9f3
+      internalID: -1943477032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_79
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 648
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3bd9eb1db2fe41438ed775fe0e797eb
+      internalID: -999185179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_80
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 627
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13666f54aebf83147ae19ece0ed5f1c9
+      internalID: 587170940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_81
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 649
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe49a826324f8fb408d9f3be3c03ee3c
+      internalID: -1722553917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_82
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 629
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562c3150ce8f0314a888a6df74f4fabe
+      internalID: -2028761536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_83
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 617
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a465b7e5c830904782db74860473dab
+      internalID: 979514629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_84
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 623
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799cd1853f634cc458f88baa263e295a
+      internalID: 1832672955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_85
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 621
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a47100e6278af4683a537c1fc774e0
+      internalID: -8186052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_86
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 612
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e232a95b3a8d6046a8ac8c713389781
+      internalID: 1702478092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_87
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 610
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70cd0c0b3c44d164e8af6f5aef702eed
+      internalID: -1495946048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_88
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 606
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a210b34ab12d8c45a3950949d2d44f9
+      internalID: 574886990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_89
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 614
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf006b12cd0e44343b8ecfb40622b02b
+      internalID: -525316633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_90
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 616
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757a4f0dc100a114ab8e5ab3474181db
+      internalID: -2089864695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_91
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 597
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1dc0d2f90cc1f4da3267dd2c634983
+      internalID: -1715377299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_92
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 608
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746321ad10f5cf54595f211f07c46760
+      internalID: 2024504043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_93
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 593
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c806ab43ff359f4182e65fe4b45e02e
+      internalID: 153942519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_94
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 598
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9229c32ef8fa6469a42980114c86db
+      internalID: -1418287892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_95
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 597
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3216a5b1a73e584184aad8a99252dff
+      internalID: -1238933898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_96
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 602
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e8e53ee380ed840a67a0d1d7ef7fff
+      internalID: 656814895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_97
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 595
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6259edfbe10e2f147a4a817a56b0656b
+      internalID: 1943719502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_98
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 572
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb0cdad629df604fa7991fcb66e4fac
+      internalID: -1263541286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_99
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 578
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0c690efd3beba4480822e000ca439e
+      internalID: 2003558087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_TheVortex_1_429x429_100
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 572
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6590b138dcc8224ca4becd9f5b8d7bc
+      internalID: -2048909799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Effect_TheVortex_1_429x429_0: -155462694
+      Effect_TheVortex_1_429x429_1: -1194953036
+      Effect_TheVortex_1_429x429_10: -1177792546
+      Effect_TheVortex_1_429x429_100: -2048909799
+      Effect_TheVortex_1_429x429_11: -1289965838
+      Effect_TheVortex_1_429x429_12: 1099147327
+      Effect_TheVortex_1_429x429_13: 1472460336
+      Effect_TheVortex_1_429x429_14: -2072545921
+      Effect_TheVortex_1_429x429_15: 2090994267
+      Effect_TheVortex_1_429x429_16: -1084717492
+      Effect_TheVortex_1_429x429_17: -263053106
+      Effect_TheVortex_1_429x429_18: -1074831338
+      Effect_TheVortex_1_429x429_19: 1063811002
+      Effect_TheVortex_1_429x429_2: 1066233815
+      Effect_TheVortex_1_429x429_20: -1599052596
+      Effect_TheVortex_1_429x429_21: -711395237
+      Effect_TheVortex_1_429x429_22: -1568975599
+      Effect_TheVortex_1_429x429_23: -802916545
+      Effect_TheVortex_1_429x429_24: 360634494
+      Effect_TheVortex_1_429x429_25: 413049300
+      Effect_TheVortex_1_429x429_26: 2048525747
+      Effect_TheVortex_1_429x429_27: 1838758620
+      Effect_TheVortex_1_429x429_28: -30256446
+      Effect_TheVortex_1_429x429_29: 1026080139
+      Effect_TheVortex_1_429x429_3: -1639252422
+      Effect_TheVortex_1_429x429_30: 412018921
+      Effect_TheVortex_1_429x429_31: -1275302250
+      Effect_TheVortex_1_429x429_32: 1383704196
+      Effect_TheVortex_1_429x429_33: 710058978
+      Effect_TheVortex_1_429x429_34: -1345907133
+      Effect_TheVortex_1_429x429_35: -114389151
+      Effect_TheVortex_1_429x429_36: -226157398
+      Effect_TheVortex_1_429x429_37: 1695857217
+      Effect_TheVortex_1_429x429_38: 753325896
+      Effect_TheVortex_1_429x429_39: 1031255255
+      Effect_TheVortex_1_429x429_4: -293996548
+      Effect_TheVortex_1_429x429_40: -872894331
+      Effect_TheVortex_1_429x429_41: 1749458428
+      Effect_TheVortex_1_429x429_42: -1129880854
+      Effect_TheVortex_1_429x429_43: 1520586528
+      Effect_TheVortex_1_429x429_44: 1672294812
+      Effect_TheVortex_1_429x429_45: -1616071289
+      Effect_TheVortex_1_429x429_46: -732620374
+      Effect_TheVortex_1_429x429_47: 1563787940
+      Effect_TheVortex_1_429x429_48: -1751846996
+      Effect_TheVortex_1_429x429_49: 1242047394
+      Effect_TheVortex_1_429x429_5: 1668996633
+      Effect_TheVortex_1_429x429_50: 1911676961
+      Effect_TheVortex_1_429x429_51: -45967807
+      Effect_TheVortex_1_429x429_52: -40797825
+      Effect_TheVortex_1_429x429_53: -296316910
+      Effect_TheVortex_1_429x429_54: -860126455
+      Effect_TheVortex_1_429x429_55: -302257524
+      Effect_TheVortex_1_429x429_56: -1564524965
+      Effect_TheVortex_1_429x429_57: 1853383552
+      Effect_TheVortex_1_429x429_58: -287029038
+      Effect_TheVortex_1_429x429_59: 1077887931
+      Effect_TheVortex_1_429x429_6: 929240956
+      Effect_TheVortex_1_429x429_60: -1466787818
+      Effect_TheVortex_1_429x429_61: 387226641
+      Effect_TheVortex_1_429x429_62: 1622238968
+      Effect_TheVortex_1_429x429_63: -1623486666
+      Effect_TheVortex_1_429x429_64: 90959556
+      Effect_TheVortex_1_429x429_65: -1783027146
+      Effect_TheVortex_1_429x429_66: -1476897461
+      Effect_TheVortex_1_429x429_67: 399880054
+      Effect_TheVortex_1_429x429_68: -872849136
+      Effect_TheVortex_1_429x429_69: 712463200
+      Effect_TheVortex_1_429x429_7: 1170199880
+      Effect_TheVortex_1_429x429_70: -1008081778
+      Effect_TheVortex_1_429x429_71: -673418349
+      Effect_TheVortex_1_429x429_72: 432534568
+      Effect_TheVortex_1_429x429_73: -2097441792
+      Effect_TheVortex_1_429x429_74: 1587432117
+      Effect_TheVortex_1_429x429_75: -346778133
+      Effect_TheVortex_1_429x429_76: 1967408376
+      Effect_TheVortex_1_429x429_77: -1429748203
+      Effect_TheVortex_1_429x429_78: -1943477032
+      Effect_TheVortex_1_429x429_79: -999185179
+      Effect_TheVortex_1_429x429_8: -1788914859
+      Effect_TheVortex_1_429x429_80: 587170940
+      Effect_TheVortex_1_429x429_81: -1722553917
+      Effect_TheVortex_1_429x429_82: -2028761536
+      Effect_TheVortex_1_429x429_83: 979514629
+      Effect_TheVortex_1_429x429_84: 1832672955
+      Effect_TheVortex_1_429x429_85: -8186052
+      Effect_TheVortex_1_429x429_86: 1702478092
+      Effect_TheVortex_1_429x429_87: -1495946048
+      Effect_TheVortex_1_429x429_88: 574886990
+      Effect_TheVortex_1_429x429_89: -525316633
+      Effect_TheVortex_1_429x429_9: -1239351489
+      Effect_TheVortex_1_429x429_90: -2089864695
+      Effect_TheVortex_1_429x429_91: -1715377299
+      Effect_TheVortex_1_429x429_92: 2024504043
+      Effect_TheVortex_1_429x429_93: 153942519
+      Effect_TheVortex_1_429x429_94: -1418287892
+      Effect_TheVortex_1_429x429_95: -1238933898
+      Effect_TheVortex_1_429x429_96: 656814895
+      Effect_TheVortex_1_429x429_97: 1943719502
+      Effect_TheVortex_1_429x429_98: -1263541286
+      Effect_TheVortex_1_429x429_99: 2003558087
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

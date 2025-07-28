@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1a9f700df470404db21d58c445fa66b, type: 3}
+  m_Name: "NecromancerDamageUp\u2161"
+  m_EditorClassIdentifier: 
+  upgradeName: "\u90AA\u672F\u5E08\u4F24\u5BB3\u589E\u5F3A\u2161"
+  description: "\u90AA\u672F\u5E08\u6574\u4F53\u4F24\u5BB3\u63D0\u534720%"
+  icon: {fileID: 1136325675, guid: e9fe3d4cc23919c4eaa2d4bc8bedbb21, type: 3}
+  type: 5
+  valueType: 1
+  value: 0.2
+  booleanValue: 0
+  targetUnitType: 2
+  unitAttributeType: 2
+  requiredUpgrades:
+  - {fileID: 11400000, guid: 8f2a1d4a538ee314d823617e1ccaaac7, type: 2}
+  targetSkill: {fileID: 0}
+  skillPropertyToModify: 0
+  requiredPrerequisites: []
+  minGoldAmount: 50
+  maxGoldAmount: 150

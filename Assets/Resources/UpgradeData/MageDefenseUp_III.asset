@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1a9f700df470404db21d58c445fa66b, type: 3}
+  m_Name: MageDefenseUp_III
+  m_EditorClassIdentifier: 
+  upgradeName: "\u6CD5\u5E08\u9632\u5FA1\u589E\u5F3A\u2162"
+  description: "\u6CD5\u5E08\u7684\u9632\u5FA1\u529B\u589E\u52A03\u70B9"
+  icon: {fileID: -926104131, guid: e9fe3d4cc23919c4eaa2d4bc8bedbb21, type: 3}
+  type: 5
+  valueType: 0
+  value: 3
+  booleanValue: 0
+  targetUnitType: 7
+  unitAttributeType: 4
+  requiredUpgrades:
+  - {fileID: 11400000, guid: 534ef6ad8acb05d45b03b09ec59f2e0f, type: 2}
+  targetSkill: {fileID: 0}
+  skillPropertyToModify: 0
+  requiredPrerequisites: []
+  minGoldAmount: 50
+  maxGoldAmount: 150

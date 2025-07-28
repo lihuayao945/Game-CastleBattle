@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1a9f700df470404db21d58c445fa66b, type: 3}
+  m_Name: "PriestHealEffectUp\u2161"
+  m_EditorClassIdentifier: 
+  upgradeName: "\u795E\u7684\u6069\u5178\u2161"
+  description: "\u7267\u5E08\u7684\u6CBB\u7597\u91CF\u63D0\u534710"
+  icon: {fileID: 473680020, guid: e9fe3d4cc23919c4eaa2d4bc8bedbb21, type: 3}
+  type: 14
+  valueType: 0
+  value: 5
+  booleanValue: 0
+  targetUnitType: 6
+  unitAttributeType: 0
+  requiredUpgrades:
+  - {fileID: 11400000, guid: b479c3870f7185347a384241dc5cf84c, type: 2}
+  targetSkill: {fileID: 11400000, guid: 35c2c40f6bce74b4c98c750279b024ce, type: 2}
+  skillPropertyToModify: 2
+  requiredPrerequisites: []
+  minGoldAmount: 50
+  maxGoldAmount: 150

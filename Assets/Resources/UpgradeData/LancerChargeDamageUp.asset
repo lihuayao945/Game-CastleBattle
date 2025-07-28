@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1a9f700df470404db21d58c445fa66b, type: 3}
+  m_Name: LancerChargeDamageUp
+  m_EditorClassIdentifier: 
+  upgradeName: "\u5927\u8FD0\u649E\u51FB\uFF01"
+  description: "\u67AA\u9A91\u5175\u7684\u51B2\u950B\u4F24\u5BB3\u63D0\u534720\u70B9"
+  icon: {fileID: 1540915031, guid: e9fe3d4cc23919c4eaa2d4bc8bedbb21, type: 3}
+  type: 14
+  valueType: 0
+  value: 20
+  booleanValue: 0
+  targetUnitType: 4
+  unitAttributeType: 0
+  requiredUpgrades: []
+  targetSkill: {fileID: 11400000, guid: 410c48f2421c438429f3f77cf26b7961, type: 2}
+  skillPropertyToModify: 1
+  requiredPrerequisites: []
+  minGoldAmount: 50
+  maxGoldAmount: 150

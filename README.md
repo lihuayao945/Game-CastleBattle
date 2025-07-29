@@ -5,20 +5,20 @@
 [![C#](https://img.shields.io/badge/C%23-9.0-blue?logo=csharp)]()
 [![License](https://img.shields.io/badge/License-MIT-green)]()
 
-[🎥 功能演示](你的视频链接) | [⬇️ 下载试玩](#游戏试玩)
+[🎥 功能演示](你的视频链接) 
 
 **项目特色**: 英雄操控 + 小兵召唤 + Roguelike强化 + 智能AI对战
 
 ## 🎮 游戏试玩
 
 ### 立即体验
-📦 **Windows版本**: [CastleWar.zip](https://github.com/lihuayao945/Game-CastleBattle/releases/download/Game/CastleWar.zip) (约150MB)
+📦 **Windows版本**: [CastleWar.zip](https://github.com/lihuayao945/Game-CastleBattle/releases/download/Game/CastleWar.zip) (约50MB)
 
 **系统要求**: Windows 10/11, DirectX 11, 2GB RAM
 
 **快速开始**:
 1. 下载并解压游戏文件
-2. 运行 `MagicBattle.exe`
+2. 运行 `城堡战争.exe`
 3. 选择单人模式 → 选择英雄 → 开始游戏
 4. 使用WSAD移动，数字键键召唤小兵，J/K/U/I键释放技能
 

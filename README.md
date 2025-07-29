@@ -362,6 +362,13 @@ public class AIManager : MonoBehaviour
 
 #### AI逻辑图
 
+![image](https://github.com/lihuayao945/Game-CastleBattle/blob/main/Images/%E9%82%AA%E6%9C%AF%E5%B8%88AI.png)
+
+![image](https://github.com/lihuayao945/Game-CastleBattle/blob/main/Images/%E5%BC%BA%E5%8C%96%E9%80%89%E6%8B%A9AI.png)
+
+![image](https://github.com/lihuayao945/Game-CastleBattle/blob/main/Images/%E5%B0%8F%E5%85%B5%E5%8F%AC%E5%94%A4AI.png)
+
+
 **AI层次结构**:
 - 🧠 **决策层**: 战场分析和策略制定
 - ⚡ **执行层**: 具体行为的精确控制

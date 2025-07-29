@@ -5,7 +5,7 @@
 [![C#](https://img.shields.io/badge/C%23-9.0-blue?logo=csharp)]()
 [![License](https://img.shields.io/badge/License-MIT-green)]()
 
-[🎥 功能演示](你的视频链接) 
+[🎥 游戏演示视频](你的视频链接) 
 
 ![image](https://github.com/lihuayao945/Game-CastleBattle/blob/main/Images/gamePresentation.png)
 

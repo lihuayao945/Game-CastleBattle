@@ -82,6 +82,8 @@
     └── 优化配置 (OptimizationSettings)
 ```
 
+![image](https://github.com/lihuayao945/Game-CastleBattle/blob/main/Images/%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1%E7%BB%93%E6%9E%84%E6%A6%82%E8%A6%81%E5%9B%BE.png)
+
 ### 技术栈详情
 | 分类 | 技术 | 版本 | 应用场景 |
 |------|------|------|----------|

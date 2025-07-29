@@ -12,7 +12,7 @@
 ## 🎮 游戏试玩
 
 ### 立即体验
-📦 **Windows版本**: [MagicBattle_v1.0.zip](https://github.com/你的用户名/MagicBattle/releases/download/v1.0.0/MagicBattle_v1.0.zip) (约150MB)
+📦 **Windows版本**: [CastleWar.zip](https://github.com/lihuayao945/Game-CastleBattle/releases/download/Game/CastleWar.zip) (约150MB)
 
 **系统要求**: Windows 10/11, DirectX 11, 2GB RAM
 
@@ -20,7 +20,7 @@
 1. 下载并解压游戏文件
 2. 运行 `MagicBattle.exe`
 3. 选择单人模式 → 选择英雄 → 开始游戏
-4. 使用鼠标右键移动，1/2键召唤小兵，3/4/5键释放技能
+4. 使用WSAD移动，数字键键召唤小兵，J/K/U/I键释放技能
 
 **操作说明**:
 - `空格键`: 切换摄像机模式（锁定/自由）
@@ -89,6 +89,19 @@
 | UI | Unity UI + TextMeshPro | - | 用户界面系统 |
 | 物理 | Unity Physics2D | - | 碰撞检测系统 |
 
+## 🎨 设计模式应用
+
+### 核心模式
+
+| 模式 | 应用场景 | 实现类 | 技术价值 |
+|------|----------|--------|----------|
+| **单例模式** | 全局管理器 | `GameManager`, `UIManager`, `AIManager` | 全局状态一致性 |
+| **工厂模式** | 对象创建 | `SkillFactory` | 统一创建接口 |
+| **观察者模式** | 事件通信 | `UnityEvent`系统 | 松耦合架构 |
+| **对象池模式** | 性能优化 | `UnitPoolManager`, `MinionIconPool` | 内存管理优化 |
+| **状态机模式** | 行为控制 | AI控制器, 游戏状态 | 清晰的逻辑流程 |
+| **策略模式** | 配置系统 | `UpgradeDataSO` | 灵活的效果配置 |
+
 ## ⚙️ 核心系统实现
 
 ### ⚔️ 技能系统 - 工厂模式 + 数据驱动
@@ -140,7 +153,7 @@ public class SkillData : ScriptableObject
 **技能系统亮点**:
 - 🏭 **工厂模式**: 统一的技能创建接口，支持动态扩展
 - 📊 **数据驱动**: ScriptableObject配置，策划友好
-- 🎯 **类型系统**: 支持投射物、区域效果、治疗等多种类型
+- 🎯 **类型系统**: 支持投射物、区域效果、治疗、削弱等多种类型
 - ⚡ **强化集成**: 与强化系统无缝集成，支持动态属性调整
 - 🔄 **对象池兼容**: 技能特效支持对象池复用
 
@@ -372,15 +385,6 @@ public class ViewportRenderingOptimizer : MonoBehaviour
 
 ### 核心模式实现
 
-| 模式 | 应用场景 | 实现类 | 技术价值 |
-|------|----------|--------|----------|
-| **单例模式** | 全局管理器 | `GameManager`, `UIManager`, `AIManager` | 全局状态一致性 |
-| **工厂模式** | 对象创建 | `SkillFactory` | 统一创建接口 |
-| **观察者模式** | 事件通信 | `UnityEvent`系统 | 松耦合架构 |
-| **对象池模式** | 性能优化 | `UnitPoolManager`, `MinionIconPool` | 内存管理优化 |
-| **状态机模式** | 行为控制 | AI控制器, 游戏状态 | 清晰的逻辑流程 |
-| **策略模式** | 配置系统 | `UpgradeDataSO` | 灵活的效果配置 |
-
 ### 事件驱动架构实现
 ```csharp
 // 单位系统中的事件声明
@@ -477,7 +481,6 @@ public class UnitPoolManager : MonoBehaviour
 - ✅ **摄像机系统**: 双模式智能控制
 - ✅ **小地图系统**: 基于Tilemap的双摄像机架构
 - ✅ **地图系统**: Tilemap地图制作 + 智能边界管理
-- 🚧 **多人模式**: 网络对战框架已预留
 
 ### 技术挑战与解决方案
 | 技术挑战 | 解决方案 | 关键技术点 |
@@ -489,23 +492,12 @@ public class UnitPoolManager : MonoBehaviour
 | **单位移动卡顿** | 避障力+网格缓存 | 排斥力系统+方向缓存 |
 
 ### 后续发展方向
-- 🌐 **网络多人对战**: 基于现有GameMode.MultiPlayer实现
+- 🌐 **网络对战模式**: 基于左右方设计实现
 - 🎨 **关卡编辑器**: 基于Tilemap的可视化地图编辑
 - 📱 **移动端适配**: UI和操作的移动端优化
 - 🔧 **模组系统**: 开放API支持社区创作
 - 🎵 **音效系统**: 完整的音频管理系统
 
-## 🎬 项目展示
-
-### 核心功能演示
-![双摄像机系统](screenshots/camera_system.gif)
-*双模式摄像机 + 小地图点击跳转*
-
-![AI战斗系统](screenshots/ai_battle.gif)
-*智能AI对战 + 网格移动系统*
-
-![渲染优化效果](screenshots/optimization.gif)
-*视野剔除优化 + 性能监控*
 
 ---
 
@@ -519,5 +511,5 @@ public class UnitPoolManager : MonoBehaviour
 
 ## 📧 联系方式
 
-- 邮箱: [your-email@example.com]
-- GitHub: [your-github-username]
+- 邮箱: 2926814355@qq.com
+- GitHub: [lihuayao945](https://github.com/lihuayao945)
